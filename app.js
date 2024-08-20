@@ -7,6 +7,6 @@ createApp({
             message
         }
     }
-}).mount('#myapp')
+}).mount('#myappp')
 
 //patricio escreveu isso aqui
